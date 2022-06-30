@@ -16,6 +16,13 @@ nThe pre-trained model Inception v3 with dataset ImageNet is used to get the emb
 The model consists of Convolutional Neural Network(CNN) as well as Long short-term memory (LSTM). The CNN is used for feature extraction from image and LSTM is used for sentence generation. 
 The model is trained in such a way that if input image is given to model it generates captions which nearly describes the image. 
 Create an app That takes an image as input and returns the caption.
+
+Input 
+![img.png](img.png)
+
+Output
+![img_1.png](img_1.png)
+
 ## Installation
 
 - [numpy](https://numpy.org/)
@@ -29,7 +36,6 @@ Create an app That takes an image as input and returns the caption.
 ## Usage
 
 All notebooks are in the notebooks folder
-
 
 ## Contributors
 
